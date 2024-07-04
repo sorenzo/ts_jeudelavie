@@ -2,7 +2,7 @@
 
 # JEU DE LA VIE !
 
-Jeu de la vie en TypeScript (canvas)
+Jeu de la vie en TypeScript (canvas) et WebGPU
 
 ## Project Setup
 
